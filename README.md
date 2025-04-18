@@ -1,6 +1,3 @@
-Here’s a GitHub `README.md` template for your project based on the URL you provided:
-
-```markdown
 # Gemini Clone
 
 Welcome to the **Gemini Clone**! This project is a clone of the Gemini platform, designed and built with a focus on responsive design and user-friendly features. It provides an excellent example of how to create a seamless experience across multiple devices and platforms. 
